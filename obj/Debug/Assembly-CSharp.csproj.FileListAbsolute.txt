@@ -1,0 +1,2 @@
+C:\Users\fonta\Documents\homa-games-test\homa-games-test\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\fonta\Documents\homa-games-test\homa-games-test\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
